@@ -9,6 +9,11 @@ I often run across forums and blog posts that are useful to have a link back to,
  * GenServers are sequential and synchronous - They process a queue of messages one at a time.
 * Use Task for when you want things to happen in parallel
 
+## Postgres
+
+### [EXPLAIN Explain])(https://www.youtube.com/watch?v=mCwwFAl1pBU) - how to use and read Explian to understand bad queries
+* Great talk on how to debug/use explain/analyze
+ * analyze takes options such as a yaml output
 ## Startups
 
 ### [Measuring Product Market Fit - Superhuman](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/) - Fantastic model for determining product market fit 
