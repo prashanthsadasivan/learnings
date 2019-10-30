@@ -11,7 +11,7 @@ I often run across forums and blog posts that are useful to have a link back to,
 
 ## Postgres
 
-### [EXPLAIN Explain])(https://www.youtube.com/watch?v=mCwwFAl1pBU) - how to use and read Explian to understand bad queries
+### [EXPLAIN Explain](https://www.youtube.com/watch?v=mCwwFAl1pBU) - how to use and read Explian to understand bad queries
 * Great talk on how to debug/use explain/analyze
  * analyze takes options such as a yaml output
 ## Startups
