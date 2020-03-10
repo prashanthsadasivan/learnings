@@ -1,6 +1,12 @@
 # learnings
 I often run across forums and blog posts that are useful to have a link back to, and I want a place to keep them
 
+## HTML, CSS, Frontend JS
+
+### [FLIP Animation technique - How to speed up Animations](https://css-tricks.com/animating-layouts-with-the-flip-technique/)
+
+* Take advantage of how the browser actually does layout to speed up animations.
+
 ## Elixir
 
 ### [How can I use GenServer for external api request?](https://elixirforum.com/t/how-can-i-use-genserver-for-external-api-request/14869) - good description on when not to use a GenServer
