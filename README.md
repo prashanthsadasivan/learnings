@@ -1,6 +1,10 @@
 # learnings
 I often run across forums and blog posts that are useful to have a link back to, and I want a place to keep them
 
+## Cooking
+### [Texture book (and Khymos blog)](https://blog.khymos.org/2014/02/15/texture-updated-and-available-for-download/#more-3891)
+* An excellent (though seemingly defunct) blog and book on food science. The book is focused on recipes with hydrocolliods - a substance that forms a gel in contact with water.
+
 ## HTML, CSS, Frontend JS
 
 ### [FLIP Animation technique - How to speed up Animations](https://css-tricks.com/animating-layouts-with-the-flip-technique/)
