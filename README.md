@@ -19,6 +19,9 @@ I often run across forums and blog posts that are useful to have a link back to,
  * GenServers are sequential and synchronous - They process a queue of messages one at a time.
 * Use Task for when you want things to happen in parallel
 
+### [BEAM VM internals](http://beam-wisdoms.clau.se/en/latest/)
+* Collection of great ELI5s of concepts in BEAM
+
 ## Linux
 
 ### [htop explained](https://peteris.rocks/blog/htop/) - great overview of how to use htop and read the output properly
